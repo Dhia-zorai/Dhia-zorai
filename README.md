@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Dhia — a CS student working across software and embedded systems.  
+Hi, I’m Dhia — a CS student at the University of Carthage working across software and embedded systems.  
 I use Python, HTML, CSS, JavaScript, C, C++, PHP, and Qt, and I'm currently deepening my work with OOP in Java.  
 I also build embedded and robotics projects using Arduino, ESP32-CAM, and ESP8266 with C/C++.
 
