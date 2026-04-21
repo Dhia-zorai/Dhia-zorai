@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m Dhia -- a CS student at the University of Carthage working across software and embedded systems.  
-I use Python, Java, PHP, and Qt, and I'm currently deepening my Java knowledge with SpringBoot.  
+I use Python, Java, PHP, HTML/CSS and I'm currently deepening my Java knowledge with SpringBoot.  
 I also build embedded and robotics projects using Arduino, ESP32-CAM, and ESP8266 with C/C++.
 
 ## 🚀 Projects
