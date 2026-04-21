@@ -1,12 +1,12 @@
 # 💫 About Me:
-Hi, I’m Dhia - a CS student at the University of Carthage working across software and embedded systems.  
+Hi, I’m Dhia -- a CS student at the University of Carthage working across software and embedded systems.  
 I use Python, Java, PHP, and Qt, and I'm currently deepening my Java knowledge with SpringBoot.  
 I also build embedded and robotics projects using Arduino, ESP32-CAM, and ESP8266 with C/C++.
 
 ## 🚀 Projects
-- **Facial Detection with ESP32-CAM** — custom C++ implementation using MediaPipe pipeline.
-- **Robot Car with ESP8266** — WiFi-controlled rover with face detection integration.
-- **Full-stack web apps** using PHP/MySQL, JS, and responsive UI.
+- **Facial Detection with ESP32-CAM** -- custom C++ implementation using MediaPipe pipeline.
+- **Robot Car with ESP8266** -- WiFi-controlled rover with face detection integration.
+- **Full-stack web apps** -- using PHP/MySQL, JS, and responsive UI.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhia-Zorai) 
